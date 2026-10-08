@@ -27,8 +27,8 @@
 - [ ] Add FAQ section
 
 ### Login / Register
-- [ ] Role choice screen (Seller or Buyer)
-- [ ] Registration forms: business name, type, phone, email, location, password
+- [/] Role choice screen (Seller or Buyer)
+- [/] Registration forms: business name, type, phone, email, location, password
 - [ ] Login with validation and clear error messages
 - [ ] Forgot / reset password flow
 - [ ] Email or phone verification
